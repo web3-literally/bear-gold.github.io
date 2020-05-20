@@ -1,1 +1,1 @@
-# bear-gold.github.io
+# Tugaleak Kodi Addon Repository
