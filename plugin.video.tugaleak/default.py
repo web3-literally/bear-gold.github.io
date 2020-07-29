@@ -111,7 +111,7 @@ def url_resolve(video_url):
             data['server_type'] = 'streamz.cc'
             html_page = get_html(site_url)
 
-        resolve_server_url = 'http://45.147.228.210:7777/get_playable_url'
+        resolve_server_url = 'http://13.230.71.19:7777/get_playable_url'
         data['html_page'] = html_page
         rslt = request(resolve_server_url, data)
         if rslt['status'] != 'success':

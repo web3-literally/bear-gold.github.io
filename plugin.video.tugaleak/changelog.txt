@@ -1,3 +1,5 @@
+v1.7
+- Changed Video Scraper IP Address 
 v1.6
 - Updated 
 v1.4
